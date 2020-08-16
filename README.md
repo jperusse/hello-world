@@ -1,3 +1,4 @@
 # hello-world
-Learning GitHub,
-Try an edit of README
+Learning GitHub
+
+Trying to make my edits pretty.
